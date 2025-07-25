@@ -1,6 +1,6 @@
 # Programming Assignment 1.1
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
+*MUDE, IIT Madras*
 
 *Written by: `<author(s)>`*
 
@@ -21,7 +21,5 @@
 % solution_start
 `<solution>`
 % solution_end
-
-
 
 *Copyright 2025 MUDE, TU Delft. This work is licensed under CC BY 4.0 License.*
