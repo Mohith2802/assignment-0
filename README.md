@@ -1,4 +1,4 @@
-# Programming Assignment 0
+# Programming Assignment 0: Setting the System Up
 
 *Based on TU Delft's [MUDE](http://mude.citg.tudelft.nl/)*
 
@@ -8,19 +8,22 @@
 
 You can access this assignment with the following link: [Accept the assignment](https://classroom.github.com/a/znBJT12E).
 
-This repository contains source file for the assignment and will be used a starting point for student repositories and in the assignments.
+This repository contains the source file for the assignment and will be used as a starting point for student repositories and in the assignments.
 
 > Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
 
-# Setting the System Up
-
 ## Learning outcomes 
 
-The goal of this assignment is to set you up you with the required programing tools that will be used through the semester for this course. We’ll also provide you with materials for further learning and a few ideas to get you started. 
+You should be able to write simple Python programs on your computer, test them, and then sync them with the GitHub remote. The goal of this assignment is to equip you with the required programming tools that will be used throughout the semester for **CV 5100 (MUDE)**. We’ll also provide you with materials for further learning and a few ideas to get you started. 
 
-## Show hidden files on your computer.
-## Install miniconda software package.
-## Install Visual Studio Code.
-## Setup MUDE environment.
-## Execute a python code in your environment.
-## Set up git and GitHub account and run basic git commands.
+The following are different objectives of Assignment-0:
+
+## 1. Show hidden files on your computer.
+## 2. Install _miniconda_ software package.
+## 3. Install _Visual Studio Code_.
+## 4. Setup MUDE environment.
+## 5. Execute a _Python_ code in your environment.
+## 6. Set up _GitHub_, _GitHub Desktop_, and try basic git operations.
+## 7. Common instructions for all assignments.
+## 8. Instructions for Assignment-0.
+
