@@ -6,8 +6,6 @@
 
 *Due: `Friday, Aug 8, 2025`*
 
-You can access this assignment with the following link: [Accept the assignment](https://classroom.github.com/a/znBJT12E).
-
 This repository contains the source file for the assignment and will be used as a starting point for student repositories and in the assignments.
 
 > Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
@@ -26,4 +24,5 @@ The following are different objectives of Assignment-0:
 ## 6. Set up _GitHub_, _GitHub Desktop_, and try basic git operations.
 ## 7. Common instructions for all assignments.
 ## 8. Instructions for Assignment-0.
+
 
