@@ -8,4 +8,5 @@ c) Cloning: Copying an existing repositry which we forked before into our local 
 
 d) Push or Pull: Pushing is uploading the changes we made in any file on the local setup so that it reflects in then remote setup so that there is proper continuation of our work. Pulling is extracting any change done on another setup to properly ontinue our work.
 
-e) Commit:  
+e) Commit: It is done as a record of changes done or progress in work in github.
+
